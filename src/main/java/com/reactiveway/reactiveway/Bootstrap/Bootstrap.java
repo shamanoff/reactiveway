@@ -9,7 +9,7 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
 /**
- * Created by jt on 12/23/17.
+ * Bootstrap
  */
 @Component
 public class Bootstrap implements CommandLineRunner {
